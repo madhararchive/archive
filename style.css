@@ -47,3 +47,11 @@ i {
     background: #264f78;
     color: white;
 }
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: white;
+    text-decoration: none;
+}
