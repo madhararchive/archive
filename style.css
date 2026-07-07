@@ -1,9 +1,9 @@
 html,body{height:100%}
 body{
-  font-family: "Courier New", monospace;
-  background:#fff;
+  font-family: "Consolas", monospace;
+  background:#2596be;
   color:#111;
-  margin:32px;
+  margin:5px;
   line-height:1.4;
 }
 h1{font-weight:700; letter-spacing:2px}
