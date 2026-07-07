@@ -1,0 +1,19 @@
+html,body{height:100%}
+body{
+  font-family: "Courier New", monospace;
+  background:#fff;
+  color:#111;
+  margin:32px;
+  line-height:1.4;
+}
+h1{font-weight:700; letter-spacing:2px}
+p{opacity:.8}
+a{color:#006400; text-decoration:none}
+a:hover{text-decoration:underline}
+ul{list-style:none; padding-left:0}
+li{margin:6px 0}
+
+/* Small responsive tweaks */
+@media (max-width:480px){
+  body{margin:16px}
+}
